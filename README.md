@@ -2,20 +2,21 @@
 
 
  ` create a live video for now like ig ` <br>
-** LIVE RADIO **
+ 
+<b> LIVE RADIO </b>
 
- 1. Send audio files from a computer to a website
- 2. Create website
- 3. Save previous mix on site
- 4. live communication with users via messenger(to make requests etc)
- 5. share mix(share widget)
+ 1. ` Send audio files from a computer to a website `
+ 2. ` Create website ` 
+ 3. ` Save previous mix on site `
+ 4. ` live communication with users via messenger(to make requests etc) `
+ 5. ` share mix(share widget) `
+ <br>
 
+<b> Start Dev Temporary </b>
 
-** Start Dev Temporary **
-
- 1. npm install
- 2. npm start
+ 1. ` npm install `
+ 2. ` npm start `
 
     OR
 
- ` npm run dev `
+ 3. ` npm run dev `
