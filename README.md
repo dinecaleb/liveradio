@@ -12,7 +12,7 @@
  5. ` share mix(share widget) `
  <br>
 
-<b> Start Dev Temporary </b>
+<b> Start App </b>
 
  1. ` npm install `
  2. ` npm start `
