@@ -1,0 +1,27 @@
+{
+  "name": "liveradio",
+  "version": "1.0.0",
+  "description": "Simple internet realtime audio streaming with node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinecaleb/liveradio.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "p5Js",
+    "Socket.io",
+    "JavaScript",
+    "Html",
+    "Css"
+  ],
+  "author": "Caleb Enwin && Jesse Okeya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinecaleb/liveradio/issues"
+  },
+  "homepage": "https://github.com/dinecaleb/liveradio#readme"
+}
